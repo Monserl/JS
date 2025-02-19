@@ -6,8 +6,8 @@
 var numero = 42
 var numero2 = -666
 var numero3 = 0
-var 80 = 80
-var 16 = 16
+var ochenta = 80
+var diesiseis = 16
 
 // Tipo: String
 var letranumero = " Veinticinco "
@@ -22,7 +22,7 @@ var reprobo = false //Falso
 var simbolo = Symbol("id")
 
 //Tipo: BigInt 
-var pi = 3.141592653589n
+var pi = 3.141592653589
 
 //Tipo: Null
 var vacio = null
@@ -38,5 +38,5 @@ console.log(numero)
 console.log(typeof numero)
 console.log(numero2)
 console.log(typeof numero2)
-console.log(16)
-console.log(typeof 16)
+console.log(diesiseis)
+console.log(typeof diesiseis)
